@@ -1,384 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=180&section=header&text=AKHIL%20ONTERU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AWS%20DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Kubernetes&descAlignY=60&descSize=18" alt="banner" width="100%">
+<img src="./assets/github-banner.svg" width="100%" alt="Akhil Onteru - AWS DevOps Engineer">
 
-A K H I L  O N T E R U
+# A K H I L  O N T E R U
 
-AWS DevOps Engineer • Cloud Infrastructure • Kubernetes
+### **AWS DevOps Engineer • Cloud • Kubernetes • Automation**
 
-DevOps • AWS • Kubernetes • Terraform • Docker • Jenkins • CI/CD • DevSecOps
+`AWS` `Terraform` `Kubernetes` `Docker` `Jenkins` `Helm` `DevSecOps`
 
-Building Cloud Infrastructure, Automating Delivery & Troubleshooting Real-World DevOps Problems.
+*Automate infrastructure. Ship reliably. Troubleshoot with evidence.*
 
-
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akhilonteru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilonteru/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 </div>
 
-👋 About Me
+---
 
-I'm an AWS DevOps Engineer with 3.6+ years of experience, focused on cloud infrastructure, containerization, Kubernetes, Infrastructure as Code, CI/CD automation, and DevSecOps.
+<h2><b>👋 About Me</b></h2>
 
-My technical focus includes AWS, Terraform, Docker, Kubernetes, Amazon EKS, Jenkins, Azure DevOps, SonarQube/SonarCloud, and Trivy.
+AWS DevOps Engineer with **3.6+ years of hands-on experience** in AWS, Terraform, Docker, Kubernetes/EKS, CI/CD and DevSecOps.
 
-I enjoy solving real-world engineering problems across Linux, AWS networking, Kubernetes, Docker, CI/CD pipelines, application connectivity, DNS, permissions, and security scanning.
+I build **automated infrastructure, delivery pipelines and practical troubleshooting solutions**.
 
-📊 GitHub Statistics
+---
+
+<h2><b>📊 GitHub Statistics</b></h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akhilonteru&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="160">
 
-<a href="https://github-stats-extended.vercel.app/api?username=akhilonteru&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
-<img src="https://github-stats-extended.vercel.app/api?username=akhilonteru&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" width="100%" alt="GitHub Statistics" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilonteru&layout=compact&hide_border=true&theme=transparent" height="160">
 
-</td>
+<br>
 
-<td align="center">
-
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=akhilonteru&layout=compact&langs_count=6&hide_values=true&theme=transparent">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=akhilonteru&layout=compact&langs_count=6&hide_values=true&theme=transparent" width="100%" alt="Top Languages" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://github.com/akhilonteru/devops-cheat-sheets">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=akhilonteru&repo=akhilonteru/devops-cheat-sheets&show_owner=true&theme=transparent" width="100%" alt="DevOps Cheat Sheets" />
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/akhilonteru/devops-learning-repo">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=akhilonteru&repo=akhilonteru/devops-learning-repo&show_owner=true&theme=transparent" width="100%" alt="DevOps Learning Repository" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://github.com/akhilonteru/spring-petclinic">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=akhilonteru&repo=akhilonteru/spring-petclinic&show_owner=true&theme=transparent" width="100%" alt="Spring PetClinic" />
-</a>
-
-</td>
-
-<td align="center">
-
-<img src="https://streak-stats.demolab.com?user=akhilonteru&theme=transparent&hide_border=true" width="100%" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=akhilonteru&theme=transparent&hide_border=true">
 
 </div>
 
-⚡ Tech Stack
+---
+
+<h2><b>⚡ Tech Stack</b></h2>
+
+**☁️ Cloud** — AWS • EC2 • VPC • EKS • IAM • S3 • RDS • Route 53 • ALB • CloudWatch
+
+**🏗️ IaC** — Terraform • Modules • State
+
+**☸️ Platform** — Docker • Kubernetes • EKS • Helm
+
+**🔄 CI/CD** — Jenkins • GitHub • GitLab CI/CD • Azure DevOps • Maven
+
+**🔐 Security** — SonarQube • SonarCloud • Trivy • Nexus • JFrog
+
+**📈 Monitoring** — CloudWatch • Prometheus • Grafana
+
+**🐧 Automation** — Linux • Bash • Python • PowerShell • Ansible
+
+---
+
+<h2><b>🧠 Current Focus</b></h2>
+
+`AWS Architecture` • `Advanced Kubernetes` • `Terraform` • `GitOps`
+
+`CI/CD` • `DevSecOps` • `Observability` • `Production RCA`
+
+---
+
+<h2><b>📂 Featured Projects</b></h2>
 
 <div align="center">
 
-☁️ Cloud
+### 🔧 DevOps & Infrastructure
 
+| Repository | Focus |
+|---|---|
+| 📚 [**DevOps Cheat Sheets**](https://github.com/akhilonteru/devops-cheat-sheets) | Commands & troubleshooting |
+| 🧪 [**DevOps Learning Repository**](https://github.com/akhilonteru/devops-learning-repo) | Hands-on DevOps learning |
 
+### ☁️ AWS & Cloud
 
+`AWS` • `VPC` • `EC2` • `EKS` • `IAM` • `S3` • `RDS` • `Route 53`
 
+### ☸️ Kubernetes & EKS
 
+`Docker` → `Kubernetes` → `EKS` → `Helm` → `CI/CD`
 
+### 🔄 CI/CD & DevSecOps
 
-
-
-
-🚀 DevOps & Platform
-
-
-
-
-
-
-
-
-
-
-🔐 DevSecOps
-
-
-
-
-🐧 Systems & Networking
-
-
-
-
+`Jenkins` • `Maven` • `SonarQube` • `Trivy` • `Docker` • `Kubernetes`
 
 </div>
 
-🧠 Current Focus
+---
 
-<table>
-<tr>
-<td>☁️ AWS Cloud Infrastructure</td>
-<td>☸️ Kubernetes / Amazon EKS</td>
-<td>🏗️ Terraform / IaC</td>
-</tr>
-<tr>
-<td>🐳 Docker & Containers</td>
-<td>🔄 CI/CD Automation</td>
-<td>🔐 DevSecOps</td>
-</tr>
-<tr>
-<td>🔧 Kubernetes Troubleshooting</td>
-<td>🌐 Cloud Networking & DNS</td>
-<td>🐧 Linux Troubleshooting</td>
-</tr>
-<tr>
-<td>🚀 Advanced Kubernetes</td>
-<td>🏗️ Advanced Terraform</td>
-<td>🔗 GitOps</td>
-</tr>
-</table>
+<h2><b>🚀 Areas of Expertise</b></h2>
 
-📂 Featured Projects
-
-<div align="center">
-
-🔧 DevOps & Infrastructure
-
-Project
-
-Description
-
-DevOps Cheat Sheets
-
-Practical command references and troubleshooting notes for DevOps engineers
-
-DevOps Learning Repository
-
-Hands-on DevOps tools, concepts, commands and learning material
-
-Spring PetClinic
-
-Spring application repository used for CI/CD, build and DevOps pipeline work
-
-</div>
-
-☁️ AWS & Cloud Infrastructure
-
-Areas of focus:
-
-VPC • EC2 • IAM • EKS • RDS • S3 • Route 53 • CloudWatch
-
-AWS
- │
- ├── VPC
- │    ├── Public Subnets
- │    ├── Private Subnets
- │    ├── Route Tables
- │    ├── Internet Gateway
- │    └── NAT Gateway
- │
- ├── Compute → EC2
- ├── Containers → EKS
- ├── Security → IAM / Security Groups
- ├── Database → RDS
- ├── Storage → S3
- ├── DNS → Route 53
- └── Monitoring → CloudWatch
-
-☸️ Kubernetes & Amazon EKS
-
-Focus areas:
-
-Pods • Deployments • Services • ConfigMaps • Secrets
-
-Scheduling • Resources • Networking • Volumes • EKS
-
-Application
-     ↓
-Docker Image
-     ↓
-Container Registry
-     ↓
-Amazon EKS
-     ↓
-Deployment
-     ↓
-Service
-     ↓
-Application
-
-🏗️ Infrastructure as Code
-
-Terraform
-
-Terraform
-    │
-    ├── Providers
-    ├── Variables
-    ├── Locals
-    ├── Resources
-    ├── Data Sources
-    ├── State
-    ├── Modules
-    └── AWS Infrastructure
-
-🔄 CI/CD & DevSecOps
-
-Git Push
-    ↓
-Checkout
-    ↓
-Build
-    ↓
-Test
-    ↓
-SonarQube / SonarCloud
-    ↓
-Trivy Security Scan
-    ↓
-Container Image
-    ↓
-Kubernetes / EKS
-
-Tools:
-
-Git • GitHub • Jenkins • Azure DevOps • Maven
-
-SonarQube • SonarCloud • Trivy • Docker • Kubernetes
-
-🔧 Real-World Troubleshooting
-
-I use an evidence-driven troubleshooting approach:
-
-Symptom
-   ↓
-Collect Evidence
-   ↓
-Logs / Events / Metrics
-   ↓
-Configuration
-   ↓
-Networking
-   ↓
-Permissions
-   ↓
-Resources
-   ↓
-Root Cause
-   ↓
-Fix
-   ↓
-Verification
-   ↓
-Documentation
-
-☸️ Kubernetes
-
-Pending Pods • CrashLoopBackOff • ImagePullBackOff
-
-Service Connectivity • DNS • Nodes • Resources
-
-Taints & Tolerations • Volumes • EKS Authentication
-
-🐳 Docker
-
-Build Failures • Container Failures • Networking
-
-Environment Variables • Permissions • Dependencies
-
-☁️ AWS
-
-EC2 Connectivity • Security Groups • VPC
-
-RDS Connectivity • EKS Access • IAM
-
-Route 53 / DNS • NAT Gateway • Route Tables
-
-🔄 CI/CD
-
-Jenkins • Maven • Java Versions
-
-SonarQube / SonarCloud • Trivy • Deployment Failures
-
-🚀 Areas of Expertise
-
-<table>
+<table align="center">
 <tr>
 <td>☁️ Cloud Infrastructure</td>
-<td>☸️ Kubernetes</td>
-<td>⚙️ DevOps Engineering</td>
-<td>🏗️ Infrastructure as Code</td>
+<td>☸️ Kubernetes / EKS</td>
+<td>🏗️ Terraform / IaC</td>
+<td>🐳 Docker</td>
 </tr>
+
 <tr>
-<td>🐳 Docker & Containers</td>
 <td>🔄 CI/CD</td>
 <td>🔐 DevSecOps</td>
+<td>📊 Observability</td>
 <td>🐧 Linux</td>
 </tr>
+
 <tr>
 <td>🌐 Networking</td>
-<td>📡 DNS</td>
-<td>☁️ AWS</td>
+<td>🔎 DNS</td>
 <td>🔧 Troubleshooting</td>
+<td>🚨 Root Cause Analysis</td>
 </tr>
 </table>
 
-🌐 Learning Hub
+---
 
-Resource
-
-Focus
-
-📚 DevOps Cheat Sheets
-
-Commands, references and troubleshooting
-
-🧪 DevOps Learning Repository
-
-DevOps tools and hands-on learning
-
-☁️ AWS
-
-Cloud infrastructure and services
-
-☸️ Kubernetes
-
-Container orchestration and EKS
-
-🏗️ Terraform
-
-Infrastructure as Code
-
-🔄 CI/CD
-
-Jenkins and Azure DevOps
-
-🔐 DevSecOps
-
-SonarQube, SonarCloud and Trivy
-
-💡 Troubleshooting Philosophy
-
-Don't restart blindly. Find the root cause.
-
-Observe → Investigate → Isolate → Fix → Verify → Document → Prevent
+<h2><b>🌐 Learning Hub</b></h2>
 
 <div align="center">
 
-☁️ Automate • 🚀 Deploy • 🔐 Secure • 🔧 Troubleshoot
-
-Thanks for visiting my GitHub profile!
-
-
+| Resource | Focus |
+|---|---|
+| ☁️ AWS | Cloud & infrastructure |
+| ☸️ Kubernetes | EKS & troubleshooting |
+| 🏗️ Terraform | Infrastructure as Code |
+| 🔄 CI/CD | Jenkins & automation |
+| 🔐 DevSecOps | SonarQube & Trivy |
+| 🔗 GitOps | Declarative delivery |
+| 📊 Observability | Metrics, logs & RCA |
+| 🌐 Multi-Cloud | Azure DevOps |
 
 </div>
+
+---
+
+<h2><b>🔧 Real-World Troubleshooting</b></h2>
+
+**Kubernetes** — `Pending` • `CrashLoopBackOff` • `ImagePullBackOff` • `Scheduling` • `DNS`
+
+**Docker** — `Builds` • `Images` • `Containers` • `Permissions` • `Networking`
+
+**AWS** — `EC2` • `EKS` • `IAM` • `Security Groups` • `DNS` • `RDS`
+
+**CI/CD** — `Agents` • `Java/Maven` • `Builds` • `Quality Gates` • `Deployments`
+
+**Linux** — `CPU` • `Memory` • `Disk` • `Ports` • `Processes` • `Logs`
+
+```text
+Symptom → Evidence → Root Cause → Fix → Verify → Prevent
