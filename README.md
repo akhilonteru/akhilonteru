@@ -20,7 +20,7 @@
 
 <h2><b>👋 About Me</b></h2>
 
-AWS DevOps Engineer with **3.6+ years of hands-on experience** in AWS, Terraform, Docker, Kubernetes/EKS, CI/CD and DevSecOps.
+AWS DevOps Engineer with **hands-on experience** in AWS, Terraform, Docker, Kubernetes/EKS, CI/CD and DevSecOps.
 
 I build **automated infrastructure, delivery pipelines and practical troubleshooting solutions**.
 
