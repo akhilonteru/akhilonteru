@@ -1,0 +1,315 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#101827"/>
+<stop offset="0.55" stop-color="#123b5d"/>
+<stop offset="1" stop-color="#173f9a"/>
+</linearGradient>
+
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22d3ee"/>
+<stop offset="1" stop-color="#3b82f6"/>
+</linearGradient>
+
+<filter id="shadow">
+<feGaussianBlur stdDeviation="8"/>
+</filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+
+<circle cx="1100" cy="80" r="180"
+fill="#2563eb"
+opacity=".12"
+filter="url(#shadow)"/>
+
+<circle cx="180" cy="300" r="150"
+fill="#06b6d4"
+opacity=".08"
+filter="url(#shadow)"/>
+
+
+<!-- Subtle Grid -->
+
+<g opacity=".12" stroke="#7dd3fc">
+
+<path d="M0 90H1280"/>
+<path d="M0 180H1280"/>
+<path d="M0 270H1280"/>
+
+<path d="M160 0V360"/>
+<path d="M320 0V360"/>
+<path d="M480 0V360"/>
+<path d="M640 0V360"/>
+<path d="M800 0V360"/>
+<path d="M960 0V360"/>
+<path d="M1120 0V360"/>
+
+</g>
+
+
+<!-- Left Side -->
+
+<g font-family="Arial, Helvetica, sans-serif"
+fill="#dbeafe">
+
+<text x="62" y="105"
+font-size="25"
+font-weight="700">
+BUILD
+</text>
+
+<text x="62" y="140"
+font-size="25"
+font-weight="700">
+AUTOMATE
+</text>
+
+<text x="62" y="175"
+font-size="25"
+font-weight="700">
+DEPLOY
+</text>
+
+<text x="62" y="210"
+font-size="25"
+font-weight="700">
+IMPROVE
+</text>
+
+<rect x="62"
+y="232"
+width="65"
+height="5"
+rx="3"
+fill="url(#glow)"/>
+
+</g>
+
+
+<!-- Main Name -->
+
+<g font-family="Arial, Helvetica, sans-serif"
+text-anchor="middle">
+
+<text x="640"
+y="118"
+font-size="62"
+font-weight="800"
+fill="#ffffff">
+
+AKHIL
+
+<tspan fill="#22b8f0">
+ ONTERU
+</tspan>
+
+</text>
+
+
+<rect x="470"
+y="140"
+width="340"
+height="3"
+fill="url(#glow)"/>
+
+
+<text x="640"
+y="178"
+font-size="25"
+font-weight="700"
+letter-spacing="6"
+fill="#ffffff">
+
+AWS DEVOPS ENGINEER
+
+</text>
+
+
+<text x="640"
+y="215"
+font-size="20"
+fill="#cbd5e1">
+
+Cloud • Kubernetes • Automation • DevSecOps
+
+</text>
+
+</g>
+
+
+<!-- Technology Pills -->
+
+<g font-family="Arial, Helvetica, sans-serif"
+text-anchor="middle">
+
+<rect x="345"
+y="238"
+width="86"
+height="36"
+rx="18"
+fill="#071827"
+stroke="#168bd0"/>
+
+<text x="388"
+y="262"
+font-size="16"
+font-weight="700"
+fill="#fff">
+
+AWS
+
+</text>
+
+
+<rect x="442"
+y="238"
+width="110"
+height="36"
+rx="18"
+fill="#071827"
+stroke="#168bd0"/>
+
+<text x="497"
+y="262"
+font-size="16"
+fill="#fff">
+
+Kubernetes
+
+</text>
+
+
+<rect x="563"
+y="238"
+width="105"
+height="36"
+rx="18"
+fill="#071827"
+stroke="#168bd0"/>
+
+<text x="615"
+y="262"
+font-size="16"
+fill="#fff">
+
+Terraform
+
+</text>
+
+
+<rect x="679"
+y="238"
+width="85"
+height="36"
+rx="18"
+fill="#071827"
+stroke="#168bd0"/>
+
+<text x="721"
+y="262"
+font-size="16"
+fill="#fff">
+
+Docker
+
+</text>
+
+
+<rect x="775"
+y="238"
+width="95"
+height="36"
+rx="18"
+fill="#071827"
+stroke="#168bd0"/>
+
+<text x="823"
+y="262"
+font-size="16"
+fill="#fff">
+
+Jenkins
+
+</text>
+
+</g>
+
+
+<!-- Right Side -->
+
+<g font-family="monospace"
+fill="#bfdbfe">
+
+<text x="1040"
+y="110"
+font-size="25"
+fill="#38bdf8">
+
+&lt;/&gt;
+
+</text>
+
+<text x="1040"
+y="145"
+font-size="18">
+
+Infrastructure
+
+</text>
+
+<text x="1040"
+y="172"
+font-size="18">
+
+as Code
+
+</text>
+
+<text x="1040"
+y="199"
+font-size="18"
+fill="#38bdf8">
+
+AWS • EKS • IaC
+
+</text>
+
+</g>
+
+
+<!-- Footer -->
+
+<g font-family="Arial, Helvetica, sans-serif"
+fill="#7dd3fc">
+
+<text x="640"
+y="318"
+text-anchor="middle"
+font-size="15"
+letter-spacing="5">
+
+CLOUD | INFRASTRUCTURE | AUTOMATION | RELIABILITY
+
+</text>
+
+</g>
+
+
+<!-- Border -->
+
+<rect x="1.5"
+y="1.5"
+width="1277"
+height="357"
+rx="28"
+fill="none"
+stroke="#168bd0"
+opacity=".55"/>
+
+</svg>
